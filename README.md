@@ -14,6 +14,9 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 [📃  前言](#--前言)
 
 [🍭  效果](#--效果)
+[📃  前言](#--前言)
+
+[🍭  效果](#--效果)
 
 [🎁  事前准备](#--事前准备)
 
